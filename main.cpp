@@ -39,7 +39,7 @@ int main(int argc, char *argv[]){
 				squareANumber();
 				break;
 			case cQuitItem:
-				cout << "Quitting" << endl;
+				cout << "Quitting!" << endl;
 				cont = false;
 				break;
 			case cUnknownItem:
